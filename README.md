@@ -1,4 +1,4 @@
-<h1 style="color⬛; font-size:34px; font-weight:bold;">HR Analytics Dashboard: Employee Attrition Analysis</h1>
+<h1 style="color⬛; font-size:34px; font-weight:900;">HR Analytics Dashboard: Employee Attrition Analysis</h1>
 ##Overview:
 This repository contains a Power BI dashboard focused on HR analytics, specifically analyzing employee attrition within an organization. The dashboard provides valuable insights into employee average salary, helping HR professionals and business leaders understand and mitigate attrition risks.
 
