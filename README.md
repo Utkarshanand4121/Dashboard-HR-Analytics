@@ -2,15 +2,15 @@
 <h2 style="color:black; font-size:44px;">Overview:</h2>
 This repository contains a Power BI dashboard focused on HR analytics, specifically analyzing employee attrition within an organization. The dashboard provides valuable insights into employee average salary, helping HR professionals and business leaders understand and mitigate attrition risks.
 
-Key Features:
-Attrition Count Analysis: Utilizing data visualization techniques, the dashboard presents a detailed breakdown of employee attrition counts over time.
-Interactive Filters: Users can interact with the dashboard through intuitive filters to explore attrition trends based on various demographic and organizational factors such as department, tenure, age, education, etc.
-Predictive Analytics: Incorporating predictive models, the dashboard offers insights into potential future attrition risks, enabling proactive measures to retain valuable talent.
-Comparative Analysis: Enables comparative analysis between different departments, locations, or other relevant organizational segments to identify patterns and trends in attrition rates.
-Data Sources:
+<h2 style="color:black; font-size:24px;">Key Features:</h2>
+<h3 style="color:black; font-size:22px;">Attrition Count Analysis:</h3> Utilizing data visualization techniques, the dashboard presents a detailed breakdown of employee attrition counts over time.
+<h3 style="color:black; font-size:22px;">Interactive Filters:</h3> Users can interact with the dashboard through intuitive filters to explore attrition trends based on various demographic and organizational factors such as department, tenure, age, education, etc.
+<h3 style="color:black; font-size:22px;">Predictive Analytics:</h3> Incorporating predictive models, the dashboard offers insights into potential future attrition risks, enabling proactive measures to retain valuable talent.
+<h3 style="color:black; font-size:22px;">Comparative Analysis:</h3> Enables comparative analysis between different departments, locations, or other relevant organizational segments to identify patterns and trends in attrition rates.
+<h2 style="color:black; font-size:24px;">Data Sources:</h2>
 The dashboard is powered by HR data collected from various sources within the organization, including employee databases, performance records, exit interviews, etc.
 
-How to Use:
+<h2 style="color:black; font-size:24px;">How to Use:</h2>
 Download Power BI Desktop: Ensure you have Power BI Desktop installed on your system.
 Clone Repository: Clone or download this repository to your local machine.
 Import Data: Import your HR data into Power BI Desktop.
