@@ -11,12 +11,12 @@ This repository contains a Power BI dashboard focused on HR analytics, specifica
 The dashboard is powered by HR data collected from various sources within the organization, including employee databases, performance records, exit interviews, etc.
 
 <h2 style="color:black; font-size:34px;">How to Use:</h2>
-<h3 style="color:black; font-size:26px;">Download Power BI Desktop:</h3> Ensure you have Power BI Desktop installed on your system.
-<h3 style="color:black; font-size:26px;">Clone Repository:</h3> Clone or download this repository to your local machine.
-<h3 style="color:black; font-size:26px;">Import Data:</h3> Import your HR data into Power BI Desktop.
-<h3 style="color:black; font-size:26px;">Open Dashboard:</h3> Open the provided Power BI file (First Project (HR Analytic).pbix) using Power BI Desktop.
-<h3 style="color:black; font-size:26px;">Refresh Data:</h3> If necessary, refresh the data connections to ensure the dashboard reflects the latest information.
-<h3 style="color:black; font-size:26px;">Explore Insights:</h3> Interact with the dashboard elements, apply filters, and explore the insights presented to gain a comprehensive understanding of employee attrition within your organization.
+<h3 style="color:black; font-size:24px;">Download Power BI Desktop:</h3> Ensure you have Power BI Desktop installed on your system.
+<h3 style="color:black; font-size:24px;">Clone Repository:</h3> Clone or download this repository to your local machine.
+<h3 style="color:black; font-size:24px;">Import Data:</h3> Import your HR data into Power BI Desktop.
+<h3 style="color:black; font-size:24px;">Open Dashboard:</h3> Open the provided Power BI file (First Project (HR Analytic).pbix) using Power BI Desktop.
+<h3 style="color:black; font-size:24px;">Refresh Data:</h3> If necessary, refresh the data connections to ensure the dashboard reflects the latest information.
+<h3 style="color:black; font-size:24px;">Explore Insights:</h3> Interact with the dashboard elements, apply filters, and explore the insights presented to gain a comprehensive understanding of employee attrition within your organization.
 <h2 style="color:black; font-size:34px; font-weight:900;">Contributions:</h2>
 Contributions, suggestions, and feedback are welcome! Feel free to fork this repository, make improvements, and submit pull requests.
 
